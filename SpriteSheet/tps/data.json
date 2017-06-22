@@ -1,8 +1,17 @@
 {"frames": [
 
 {
+	"filename": "brick.png",
+	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
 	"filename": "walk1.png",
-	"frame": {"x":0,"y":0,"w":32,"h":64},
+	"frame": {"x":33,"y":0,"w":32,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
@@ -11,7 +20,7 @@
 },
 {
 	"filename": "walk2.png",
-	"frame": {"x":32,"y":0,"w":32,"h":64},
+	"frame": {"x":66,"y":0,"w":32,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
@@ -20,7 +29,7 @@
 },
 {
 	"filename": "walk3.png",
-	"frame": {"x":64,"y":0,"w":32,"h":64},
+	"frame": {"x":99,"y":0,"w":32,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
@@ -32,8 +41,8 @@
 	"version": "1.0",
 	"image": "sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":96,"h":64},
+	"size": {"w":132,"h":64},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:9d548f9bde30e98ef6c7c0268e30f30d:b3d3dc0be865f5c67db5ca44f8738de3:9c44ecd7e9a522007eaff2949095bc1d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:ab835f645ca52aff1fb02700cba6d519:3d4a2ea31a1475fc64e2c6749e52ba58:822e3d3a9fa924815f8965e5cda46c00$"
 }
 }
