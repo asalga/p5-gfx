@@ -1,36 +1,39 @@
 {"frames": [
 
 {
-	"filename": "down",
-	"frame": {"x":0,"y":142,"w":193,"h":71},
+	"filename": "walk1.png",
+	"frame": {"x":0,"y":0,"w":32,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":71},
-	"sourceSize": {"w":193,"h":71}
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
+	"sourceSize": {"w":32,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
 },
 {
-	"filename": "out",
-	"frame": {"x":0,"y":71,"w":193,"h":71},
+	"filename": "walk2.png",
+	"frame": {"x":32,"y":0,"w":32,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":71},
-	"sourceSize": {"w":193,"h":71}
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
+	"sourceSize": {"w":32,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
 },
 {
-	"filename": "over",
-	"frame": {"x":0,"y":0,"w":193,"h":71},
+	"filename": "walk3.png",
+	"frame": {"x":64,"y":0,"w":32,"h":64},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":71},
-	"sourceSize": {"w":193,"h":71}
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
+	"sourceSize": {"w":32,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
 }],
 "meta": {
-	"app": "http://www.texturepacker.com",
+	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "button_texture_atlas.png",
+	"image": "sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":193,"h":213},
+	"size": {"w":96,"h":64},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:94df81041404a206a4e9cd597a1e3495$"
+	"smartupdate": "$TexturePacker:SmartUpdate:9d548f9bde30e98ef6c7c0268e30f30d:b3d3dc0be865f5c67db5ca44f8738de3:9c44ecd7e9a522007eaff2949095bc1d$"
 }
 }
